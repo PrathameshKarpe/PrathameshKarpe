@@ -42,7 +42,7 @@
 ## ABOUT
 
 <p>
-I am a Computer Science Engineering student focused on building scalable software systems, intelligent applications, and practical digital products. My engineering interests span full-stack development, AI/ML, backend engineering, data-driven systems, and modern cloud tooling.
+I am a developer focused on building scalable software systems, intelligent applications, and practical digital products. My engineering interests span full-stack development, AI/ML, backend engineering, data-driven systems, and modern cloud tooling.
 </p>
 
 <p>
@@ -283,23 +283,6 @@ No specific Cisco certification is listed in the supplied resume.
 </p>
 
 ---
-
-## CODING PROFILES
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-312E81?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
 
 ---
 
